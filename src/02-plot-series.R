@@ -1,6 +1,5 @@
 source("src/02-build-df.R")
 
-
 df |>
     pivot_longer(
         cols = !data,

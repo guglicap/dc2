@@ -1,4 +1,5 @@
 library(tidyverse)
+library(viridisLite)
 
 sensor_mapping <- read_csv("data/RW_20230425150804_545043/mapping.csv", na = c("", "-999")) |>
     select(Id_Sensore, Nome_Sensore)
