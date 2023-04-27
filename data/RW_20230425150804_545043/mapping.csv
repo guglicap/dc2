@@ -1,0 +1,7 @@
+Id_Stazione,Nome_Stazione,Id_Sensore,Nome_Sensore,Unita_Misura,Periodo_Dal,Periodo_Al,Operatore
+100,Milano Lambrate,2001,Temperatura,°C,2022/04/18 00:00,2023/04/17 00:00,Medio
+100,Milano Lambrate,2002,Umidità Relativa,%,2022/04/18 00:00,2023/04/17 00:00,Medio
+100,Milano Lambrate,2006,Precipitazione,mm,2022/04/18 00:00,2023/04/17 00:00,Cumulata
+100,Milano Lambrate,2008,Radiazione Globale,W/m²,2022/04/18 00:00,2023/04/17 00:00,Medio
+100,Milano Lambrate,14390,Direzione Vento,°,2022/04/18 00:00,2023/04/17 00:00,Medio
+100,Milano Lambrate,14391,Velocità Vento,m/s,2022/04/18 00:00,2023/04/17 00:00,Medio
